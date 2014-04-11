@@ -41,3 +41,12 @@ li {
 .headerPadding {
     padding-top: 10px;
 }
+.fa-lg {
+    margin-right: 10px;
+}
+.fa-phone.fa-lg {
+    margin-right: 17px;
+}
+.fa-home.fa-lg {
+    margin-right: 13px;
+}

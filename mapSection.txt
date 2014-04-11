@@ -1,0 +1,50 @@
+//////////
+// keep in case want to include the map in the future
+//////////
+
+<!-- CONTACT FOOTER -->
+	<section id="map" name="map"></section>
+	<div id="cf">
+		<!-- <div class="container"> -->
+			<div class="row">
+				<div class="col-lg-8">
+		        	<div id="mapwrap">
+		        		<!--
+						<iframe height="400" width="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.es/maps?t=m&amp;ie=UTF8&amp;ll=52.752693,22.791016&amp;spn=67.34552,156.972656&amp;z=6&amp;output=embed"></iframe>
+						-->
+						<!--
+						<iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=1115+Bethel+Road,+Columbus,+OH+43220&amp;aq=0&amp;oq=1115+Bethel+Road+Columbus++43220&amp;sll=37.269174,-119.306607&amp;sspn=10.869827,20.214844&amp;ie=UTF8&amp;hq=&amp;hnear=1115+Bethel+Rd,+Columbus,+Ohio+43220&amp;t=m&amp;ll=40.072555,-83.047543&amp;spn=0.045976,0.072956&amp;z=13&amp;iwloc=A&amp;output=embed"></iframe> 
+
+
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100894.95172697374!2d-122.3919380737305!3d37.790807471226145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80859a6d00690021%3A0x4a501367f076adff!2sSan+Francisco%2C+CA!5e0!3m2!1sen!2sus!4v1390009426061" width="100%" height="400" frameborder="0" style="border:0"></iframe>
+						-->
+
+						<iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?t=m&amp;q=sf+ca&amp;ie=UTF8&amp;hq=&amp;hnear=San+Francisco,+San+Francisco+County,+California&amp;ll=37.79188,-122.367783&amp;spn=0.217046,0.54863&amp;z=11&amp;iwloc=A&amp;output=embed"></iframe><!--<br /><small><a href="https://maps.google.com/maps?t=m&amp;q=sf+ca&amp;ie=UTF8&amp;hq=&amp;hnear=San+Francisco,+San+Francisco+County,+California&amp;ll=37.79188,-122.367783&amp;spn=0.217046,0.54863&amp;z=11&amp;iwloc=A&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>-->
+
+						<!-- <br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=1115+Bethel+Road,+Columbus,+OH+43220&amp;aq=0&amp;oq=1115+Bethel+Road+Columbus++43220&amp;sll=37.269174,-119.306607&amp;sspn=10.869827,20.214844&amp;ie=UTF8&amp;hq=&amp;hnear=1115+Bethel+Rd,+Columbus,+Ohio+43220&amp;t=m&amp;ll=40.072555,-83.047543&amp;spn=0.045976,0.072956&amp;z=13&amp;iwloc=A" style="color:#0000FF;text-align:left">View Larger Map</a></small> -->
+					</div>	
+				</div><!--col-lg-8-->
+				<div class="col-lg-4">
+					<h4>Contact Information</h4>
+					<br>
+					<p>
+						3400 California St. Suite 100 <br> San Francisco, CA 94118
+					</p>
+					<p>
+						Mobile: 415 385-3669<br/>
+						<!-- Office: ??? ???-???? Ext ....<br/> -->
+						Email: <a href="mailto:jeani@compassroseacupuncture.com?subject=interested in acupuncture">Jeani@compassroseacupuncture.com</a>
+					</p>
+					<p>
+						<bold>Insurance:</bold>
+						We are currently in-network with Blue Shield of California.  We will be accepting more insurance plans in the future.
+					</p>
+					<p>
+						<bold>Cancellation policy:</bold>
+						Please allow 24 hours notice.
+					</p>
+					<p> Visit my <a href="http://acupunctureparker.com/jeani-fink-lac-mtcm/"> Root & Stem page </a> </p>
+				</div><!--col-lg-4-->
+			</div><!-- row -->
+		<!-- </div> container -->
+	</div><!-- Contact Footer -->

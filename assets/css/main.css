@@ -152,7 +152,9 @@ a:after {
 /* White Wrap */
 
 #w {
-	background: #ffffff;
+	/* background: #ffffff; */
+	background: #85ccc2;
+	/* background: #f7f7f7; */
 	padding-top: 35px;
 	padding-bottom: 35px;
 	text-align: center;
@@ -160,27 +162,51 @@ a:after {
 
 #w h3 {
 	font-weight: 700;
-	color: #7b7b7b;
+	/* color: #7b7b7b; */
+	color:white;
 	letter-spacing: 1px;
+}
+p.spiel {
+	/* font-weight: 700; */
+	/* color: #7b7b7b; */
+	color:white;
+	letter-spacing: 1px;
+	font-size: 25px;
+	font-weight: 200;
 }
 
 #w bold {
-	color: #2f2f2f;
+	/* color: #2f2f2f; */
+	color: #6e6e6e;
 }
 
 
 /* Grey Wrap */
 
 #g {
-	background: #f2f2f2;
+	/* background: #f2f2f2; */
+	background: #fff;
 	padding-top: 35px;
 	padding-bottom: 35px;
 	text-align: center;
 }
 
+#z {
+	/* background: #f2f2f2; */
+	background: #e0e0e0;
+	padding-top: 35px;
+	padding-bottom: 35px;
+	/* text-align: center; */
+}
+
+#z h3 {
+	text-align: center;
+}
+
 /* Dark Grey Wrap */
 #dg {
-	background: #e0e0e0;
+	/* background: #e0e0e0; */
+	background: #fff;
 	padding-top: 70px;
 	padding-bottom: 70px;
 	text-align: center;
